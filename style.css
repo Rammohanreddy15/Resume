@@ -1,0 +1,35 @@
+body{
+    padding-left: 10px;
+}
+b{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+label{
+    margin-left: 0px;
+}
+#image{
+    height: 200px;
+    width: 200px;
+}
+table{
+    text-align: center;
+    height: 300px;
+    width: 700px;
+}
+pre{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+}
+p{
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60px;
+}
+h2{
+    margin-left: 30px;
+}
